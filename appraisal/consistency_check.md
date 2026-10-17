@@ -1,10 +1,10 @@
 # Consistency check
 
-Ten studies were scored a second time, independently of the first pass, to measure the consistency of the appraisal. Exact agreement was 63 of 75 applicable criterion ratings.
+Ten studies were scored a second time by the first author, independently of the first pass, to measure the intra-rater consistency of the appraisal. Exact agreement was 63 of 75 applicable criterion ratings.
 
 ---
 
-## First scoring pass
+## First scoring pass (first author)
 
 ```jsonl
 {"id":"101","instrument":"A","study_type":"empirical","scores":{"A1":"R","A2":"P","A3":"R","A4":"P","A5":"P"},"evidence":{"A1":"Secs. 3-5 state a personal-network survey design and regression analyses for hurricane decision consistency and sharing.","A2":"Sec. 4 reports 90 online responses from FIU/South Florida networks, but convenience recruitment limits representativeness.","A3":"Sec. 4 describes a 70-question Qualtrics survey covering demographics, relationships, travel and evacuation scenarios.","A4":"Sec. 4 reports received responses but does not fully address item nonresponse, exclusions or analytic missingness.","A5":"Sec. 8 acknowledges survey and sampling limitations; self-report and FIU-network selection bias remain."},"coding":{"study_type":"empirical","participants_n":90,"setting":"survey","instrument":["questionnaire"],"model_class":["statistical"],"validation_reported":"no","leader_type":["none"]},"flags":["class-corrected"]}
@@ -19,7 +19,7 @@ Ten studies were scored a second time, independently of the first pass, to measu
 {"id":"209","instrument":"A+B","scores":{"A1":"R","A2":"R","A3":"R","A4":"P","A5":"P","B1":"R","B2":"R","B3":"R","B4":"R","B5":"P"}}
 ```
 
-## Second scoring pass, scored independently
+## Second scoring pass (first author, scored independently of the first pass)
 
 | ID | Scores in criterion order |
 |---|---|
@@ -36,7 +36,7 @@ Ten studies were scored a second time, independently of the first pass, to measu
 
 ## Agreement
 
-Exact code agreement was 63/75 applicable criterion ratings (84.0%). The two passes were made independently, without reference to the first set of codes.
+Intra-rater exact agreement was 63/75 applicable criterion ratings (84.0%). The second pass was made without reference to the codes assigned in the first pass.
 
 | Criterion | Agreement |
 |---|---:|
