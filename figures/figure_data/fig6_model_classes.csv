@@ -1,10 +1,22 @@
-model_class,studies
-other,79
-SFM,75
-ABM,69
-CA,31
-none,24
-statistical,21
-RL,8
-MPC,5
-game-theoretic,5
+level,category,studies
+modeling framework,"Individual-based, not framed as agent-based",124
+modeling framework,Agent-based (explicitly framed),62
+modeling framework,Statistical or econometric,42
+modeling framework,Network or system-level,32
+modeling framework,"Decision, optimization, or control model only",18
+modeling framework,Macroscopic or mesoscopic,17
+modeling framework,No formal model (empirical analysis),15
+modeling framework,Other mathematical model,4
+movement mechanism (individual-based models),Social force,85
+movement mechanism (individual-based models),No distinct method named,47
+movement mechanism (individual-based models),Cellular automata or floor field,43
+movement mechanism (individual-based models),"Velocity-based, steering, or optimal steps",16
+decision-making method,No distinct method named,154
+decision-making method,Optimization or control,37
+decision-making method,Path planning or shortest path,34
+decision-making method,Social-influence or contagion dynamics,23
+decision-making method,Rule-based or heuristic,15
+decision-making method,Utility or probabilistic choice,10
+decision-making method,Learning-based,10
+decision-making method,Game-theoretic,9
+decision-making method,Fuzzy logic,7

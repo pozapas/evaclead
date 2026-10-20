@@ -20,7 +20,7 @@ from the deposited records.
 | --- | --- |
 | Included corpus | 265 studies: 195 journal articles, 61 conference papers, 4 book chapters, 3 preprints, and 2 doctoral dissertations |
 | Supplementary targeted-search yield | 29 included studies |
-| Quality appraisal | 223 studies; 189 assessed with the simulation instrument and 54 with the empirical instrument; 26 studies used both designs and received both appraisals |
+| Quality appraisal | 250 studies (223 from the primary search, 27 from the supplementary search); 202 assessed with the simulation instrument and 69 with the empirical instrument; 27 studies used both designs and received both appraisals |
 | Bibliometric mapping | VOSviewer 1.6.21 term co-occurrence analysis of titles and abstracts |
 
 ## Repository structure
@@ -55,10 +55,10 @@ The primary-search strings are reported in Appendix A of the paper.
 - `appraisal/appraisal_rubric.md` documents the two instruments and criterion anchors. Instrument A adapts the 2018 Mixed Methods Appraisal Tool; Instrument B operationalizes verification and validation criteria for evacuation models.
 - `appraisal/appraisal_by_study.csv` is the machine-readable, study-by-criterion appraisal record.
 - `appraisal/appraisal_by_study.pdf` is a typeset rendering of the same record.
-- `appraisal/consistency_check.md` reports the independent second scoring of ten studies and the resulting agreement figure.
+- `appraisal/consistency_check.md` reports the first author's independent second scoring of ten studies and the resulting intra-rater agreement figure.
 
 Criterion-level frequencies are calculated only among studies to which the
-criterion applies: 186 simulation studies and 52 empirical studies.
+criterion applies: 199 simulation studies and 67 empirical studies.
 
 ### Bibliometric analysis
 
@@ -73,7 +73,7 @@ the top 60 percent by relevance, and association-strength normalization.
 ### Figures and reporting checklist
 
 - `figures/prisma_flow.drawio` is the editable source for the study-selection diagram; `figures/prisma_flow.png` is its rendered version.
-- `figures/figure_data/` contains the source counts for the publication-year, venue-frequency, appraisal, and model-class figures.
+- `figures/figure_data/` contains the source counts for the publication-year, venue-frequency, appraisal, and modeling-approach figures (by modeling framework, movement mechanism, and decision-making method).
 - `prisma/prisma_2020_checklist.pdf` is the completed PRISMA 2020 checklist, including the reported location of each item.
 
 ## Working with the materials

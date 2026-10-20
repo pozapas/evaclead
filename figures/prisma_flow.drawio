@@ -1,5 +1,5 @@
 <mxfile host="Electron">
-  <diagram name="PRISMA 2020" id="prisma-2020-evacuation-review">
+  <diagram name="PRISMA 2020" id="prisma-safety-d-26-01840">
     <mxGraphModel dx="1987" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1000" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -19,7 +19,7 @@
         <mxCell id="n15" parent="1" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#E8F6F4;strokeColor=#2C7FB8;strokeWidth=1.5;dashed=0;fontColor=#20343F;fontSize=17;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=8;fontStyle=0" value="&lt;b&gt;Publisher platforms&lt;/b&gt; (n = 263)&lt;br&gt;•&amp;nbsp;Springer&lt;br&gt;•&amp;nbsp;MDPI&lt;br&gt;•&amp;nbsp;Wiley Online Library&lt;br&gt;•&amp;nbsp;ACM&lt;br&gt;•&amp;nbsp;PLOS ONE&lt;br&gt;•&amp;nbsp;Frontiers&lt;br&gt;•&amp;nbsp;Taylor &amp;amp; Francis&lt;br&gt;•&amp;nbsp;SAGE&lt;br&gt;•&amp;nbsp;Hindawi" vertex="1">
           <mxGeometry height="223" width="275" x="323" y="39" as="geometry" />
         </mxCell>
-        <mxCell id="n16" parent="1" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#E8F6F4;strokeColor=#2C7FB8;strokeWidth=1.5;dashed=0;fontColor=#20343F;fontSize=17;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=8;fontStyle=0" value="&lt;div style=&quot;line-height: 170%;&quot;&gt;&lt;b&gt;Supplementary targeted search&lt;/b&gt;&lt;br&gt;social-science keyword families (n = 1794)&lt;br&gt;•&amp;nbsp;SS-1 social identity / collective behavior&lt;br&gt;•&amp;nbsp;SS-2 panic / affiliation&lt;br&gt;•&amp;nbsp;SS-3 witness accounts / interviews&lt;br&gt;•&amp;nbsp;SS-4 group dynamics under threat&lt;br&gt;•&amp;nbsp;SS-5 emergent norms / roles&lt;/div&gt;" vertex="1">
+        <mxCell id="n16" parent="1" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#E8F6F4;strokeColor=#2C7FB8;strokeWidth=1.5;dashed=0;fontColor=#20343F;fontSize=17;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=8;fontStyle=0" value="&lt;div style=&quot;line-height: 170%;&quot;&gt;&lt;b&gt;Supplementary targeted search&lt;/b&gt;&lt;br&gt;social-science keyword families (n = 1794)&lt;br&gt;•&amp;nbsp;SS-1 social identity / collective behavior&lt;br&gt;•&amp;nbsp;SS-2 affiliative / prosocial responses&lt;br&gt;•&amp;nbsp;SS-3 witness accounts / interviews&lt;br&gt;•&amp;nbsp;SS-4 group dynamics under threat&lt;br&gt;•&amp;nbsp;SS-5 emergent norms / roles&lt;/div&gt;" vertex="1">
           <mxGeometry height="223" width="349" x="818" y="39" as="geometry" />
         </mxCell>
         <mxCell id="n17" parent="1" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#F2FAFC;strokeColor=#2C7FB8;strokeWidth=1.5;dashed=0;fontColor=#20343F;fontSize=17;fontFamily=Helvetica;align=center;verticalAlign=middle;spacing=8;fontStyle=0" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;Records identified&lt;br&gt;(n = 1114)&lt;/div&gt;" vertex="1">

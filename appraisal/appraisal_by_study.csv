@@ -222,3 +222,30 @@ id,study,title,design,instrument,A1,A2,A3,A4,A5,B1,B2,B3,B4,B5
 401,"Wagner, 2021",Robot-Guided Evacuation as a Paradigm for Human-Robot Interaction Research,other,NA,,,,,,,,,,
 402,"Radianti, 2014",Comparing Different Crowd Emergency Evacuation Models Based on Human Centered Sensing Criteria,other,NA,,,,,,,,,,
 403,"Vihas, 2012",Follow-the-Leader Cellular Automata Based Model Directing Crowd Movement,simulation,B,,,,,,R,P,N,N,P
+501,"Drury, 2015",Managing to avert disaster: Explaining collective ,empirical,A,R,R,R,R,R,,,,,
+502,"Kuligowski, 2011","Terror Defeated: Occupant Sensemaking, Decision-Ma",empirical,A,R,R,R,R,R,,,,,
+503,"Drury, 2008",Everyone for themselves? A comparative study of cr,empirical,A,R,R,R,R,R,,,,,
+504,"Shentu, 2018",Social attachment shapes emergency responses: Evid,empirical,A,R,R,R,R,R,,,,,
+505,"von Sivers, 2016",Modelling social identification and helping in eva,simulation,B,,,,,,R,P,P,R,R
+506,"Templeton, 2023",Information sharing and support among residents in,empirical,A,R,R,R,R,R,,,,,
+507,"Suryotrisongko, 2011",Emergence of cooperation as the impact of evacuee',simulation,B,,,,,,R,P,N,R,P
+508,"von Sivers, 2014",Humans do not Always Act Selfishly: Social Identit,simulation,B,,,,,,R,P,P,P,R
+509,"Connell, 2001","Collective Behavior In the September 11, 2001 Evac",empirical,A,R,P,R,P,R,,,,,
+510,"Kordoni, 2023",“Are we in this together?”: embedding social ident,mixed,A+B,R,P,R,R,R,R,R,P,R,R
+512,"Cocking, 2009",The psychology of crowd behaviour in emergency eva,empirical,A,R,R,R,R,P,,,,,
+513,"Wang, 2012",Qualitative simulation of the panic spread in larg,simulation,B,,,,,,R,P,R,P,P
+514,"Drury, 2013",Psychological disaster myths in the perception and,empirical,A,R,R,R,R,R,,,,,
+515,"Chu, 2014",Modeling social behaviors in an evacuation simulat,simulation,B,,,,,,R,P,P,R,P
+516,"Zia, 2016",Quantifying the interplay of emotions and rational,simulation,B,,,,,,R,P,N,R,R
+517,"Barr, 2024",Explaining a collective false alarm: Context and c,empirical,A,R,R,R,R,R,,,,,
+518,"Ferscha, 2009",On the Efficiency of LifeBelt Based Crowd Evacuati,simulation,B,,,,,,R,P,N,P,P
+519,"Gorrini, 2014",Group Dynamics in Pedestrian Crowds,empirical,A,R,R,R,R,R,,,,,
+520,"Zafar, 2017",Modeling human factors influencing herding during ,simulation,B,,,,,,R,P,N,P,P
+521,"Bouderbal, 2019",A Social Bonds Integration Approach for Crowd Pani,simulation,B,,,,,,R,P,R,P,P
+522,"Fang, 2015",Computational study of social interactions and col,simulation,B,,,,,,R,R,R,R,R
+523,"Gershon, 2011",The World Trade Center evacuation study: Factors a,empirical,A,R,R,R,R,R,,,,,
+524,"Wang, 2016",Investigation of the Panic Psychology and Behavior,empirical,A,R,R,R,R,P,,,,,
+525,"van der Wal, 2021",Examining Evacuee Response to Emergency Communicat,simulation,B,,,,,,R,R,R,R,R
+526,"Balboa, 2020",Measuring social influence and group formation dur,empirical,A,R,R,R,P,R,,,,,
+528,"Cornwell, 2021",Network Structure in Small Groups and Survival in ,empirical,A,R,R,R,R,R,,,,,
+529,"Mao, 2024",Cellular Automata Model for Helping Behavior in Pe,simulation,B,,,,,,R,P,N,R,P
